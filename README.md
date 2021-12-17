@@ -25,7 +25,7 @@ There are 2 public interfaces:
   in order to start receiving notifications.
 
 You can either use previously mentioned interfaces' **implementations in TCPHunter.TCPHelper.Implementation
-namespace** or **by adding services by calling .AddTCPHunter which adds the TCP-Hunter services to the services container**
+namespace** or **add services by calling .AddTCPHunter which adds the TCP-Hunter services to the services container**
 
 
 ## Technologies
