@@ -3,7 +3,7 @@
 
 It's a simple library, that helps you to get all TCP connections on a local Windows machine.
 This project comes with both, TCP-Hunter library, and a simple WPF app that allows you to
-overview active TCP connections as well as kill a selected process to end undesired TCP connection.
+overview active TCP connections as well as kill a selected process to end an undesired TCP connection.
 
 ## Prerequisites
 
